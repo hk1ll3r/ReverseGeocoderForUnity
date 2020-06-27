@@ -1,4 +1,6 @@
 # ReverseGeocoderForUnity
+[![openupm](https://img.shields.io/npm/v/com.nosuchstudio.reversegeocoder?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.nosuchstudio.reversegeocoder/)
+
 Reverse Geocoder for Unity allows you to look up world coordinates (latitude, longitude) and get the country / US state the query point falls into. The code is offline and performs no network calls.
 
 The code is based off [Wibci.CountryReverseGeocode](https://github.com/InquisitorJax/Wibci.CountryReverseGeocode).
@@ -27,7 +29,9 @@ https://github.com/hk1ll3r/ReverseGeocoderForUnity
 Releases contain the `ReverseGeocoderForUnity.unitypackage`.
 
 ### Install via [OpenUPM](https://openupm.com/)
-TODO
+```
+openupm add com.nosuchstudio.reversegeocoder
+```
 
 ### Install via Unity Asset Store
 This package is available on Unity Asset Store: (http://u3d.as/1WT5).
