@@ -14,7 +14,7 @@ The library can be used with custom data. For example you could gather data for 
 
 ## Installation
 
-!! This package has a dependency on [Newtonsoft.json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity). Install that first.
+:warning: This package has a dependency on [Newtonsoft.json for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity). Install that first.
 
 ### Install via [Git URLs](https://docs.unity3d.com/Manual/upm-git.html)
 
