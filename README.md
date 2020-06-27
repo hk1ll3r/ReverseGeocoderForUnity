@@ -10,7 +10,7 @@ The library can be used with custom data. For example you could gather data for 
 
 - Basic Unity integration: This package adds a thin MonoBehavoiur wrapper around the main service class for use with Unity. The showcase project (this) includes a sample Unity scene that performs reverse Geocode queries. 
 
--This package also gets around [a build problem](https://issuetracker.unity3d.com/issues/il2cpp-build-hangs-while-building-a-project-with-a-large-array-of-strings) in Unity  by removing the large class data initializers and loading the data at runtime from .json files.
+- This package also gets around [a build problem](https://issuetracker.unity3d.com/issues/il2cpp-build-hangs-while-building-a-project-with-a-large-array-of-strings) in Unity  by removing the large class data initializers and loading the data at runtime from .json files.
 
 ## Installation
 
