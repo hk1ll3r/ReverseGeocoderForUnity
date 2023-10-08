@@ -22,7 +22,7 @@ The library can be used with custom data. For example you could gather data for 
 
 Add this git URL in Unity's package manager.
 ```
-https://github.com/hk1ll3r/ReverseGeocoderForUnity
+https://github.com/hk1ll3r/ReverseGeocoderForUnity.git
 ```
 
 ### Install via Traditional .unitypackage File
